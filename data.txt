@@ -1,3 +1,6 @@
-Hello! This file has been modified by Claude.
-Original content was: 123132131, 123132132
-Modified on: 2026-06-29
+Hello! This file has been modified by Claude on branch1.
+Added some sample data for testing:
+- item_a: 100
+- item_b: 200
+- item_c: 300
+Updated on: 2026-06-29
